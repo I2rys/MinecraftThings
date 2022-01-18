@@ -2,8 +2,8 @@ First of, this 100% works in crack server I'm not sure of premium server and mak
 
 
 1. Download https://mc-pc.net/launchers/577-minecraft-titan-launcher.html
-2. Then It will ask for a name, find the "Options" button then click it, uncheck "Premium Mode" and check "Stay Logged In"(Depends) click "Done" then type your target's name example mrbeastgaming_1
-3. Pick the version that you want to use then press "Play", there you go your now using the account :)
+2. It will ask for a name, find the "Options" button then click it, uncheck "Premium Mode" and check "Stay Logged In"(Depends) click "Done" then type your target's name example mrbeastgaming_1
+3. Pick the version that you want to use then press "Play", there you go your now using the account. :)
 
 <h1 align="center">Q&A</h1>
 

@@ -2,8 +2,8 @@ First of, this 100% works in crack server I'm not sure of premium server and mak
 
 
 1. Download https://mc-pc.net/launchers/577-minecraft-titan-launcher.html
-2. It will ask for a name, find the "Options" button then click it, uncheck "Premium Mode" and check "Stay Logged In"(Depends) click "Done" then type your target's name example mrbeastgaming_1
-3. Pick the version that you want to use then press "Play", there you go your now using the account. :)
+2. It will ask for a name, find the "Options" button then click it, uncheck "Premium Mode" and check "Stay Logged In"(Depends) click "Done" then type your target's name for example **mrbeastgaming_1**
+3. Pick the version that you want to use then click "Play", there you go your now using the account. :)
 
 <h1 align="center">Q&A</h1>
 
@@ -28,13 +28,13 @@ Here are the important principles
 ### Method 1
 Make sure the Minecraft server has a forum/Discord where you can reset your password, talk to the staff & Use optifine so version the account skin will show.
 
-This mostly works if the account doesn't have any email attach to it on the server.
+This mostly works if the account doesn't have any email attach to it in the server.
 
 1. Report your problem that you forgot your password. They will ask:
 + How did you forgot your password? And yadeyadeya
 
 2. Just be calm and state your problem, make sure it sounds good & legit.
-3. Then there is 93% chance that they will ask If you own the account, say yes and make a world, join the world press F5 then screenshot then give it to him/her.
+3. There is 93% chance that they will ask If you own the account, say yes and make a world, join the world press F5 then screenshot then give it to him/her.
 4. If his/shes convinced, this will work!
 
 ### Method 2
